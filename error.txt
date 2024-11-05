@@ -1,0 +1,2 @@
+Sum of Square Error: 84752393
+Mean Square Error: 3.5313497083333334
