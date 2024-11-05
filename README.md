@@ -11,8 +11,6 @@ This project demonstrates converting a color image to grayscale and resampling i
 - NumPy
 
 Install the required packages with:
-
-```bash
 pip install opencv-python numpy
 
 
